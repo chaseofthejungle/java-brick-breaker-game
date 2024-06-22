@@ -4,4 +4,4 @@ This program is similar to the classic arcade game Breakout. It implements Javax
   
 **Sample Gameplay:**  
   
-![alt text](https://github.com/chaseofthejungle/java-brick-breaker-game/blob/main/sbbdemo.png "Super Brick Breaker Gameplay")
+![Super Brick Breaker Gameplay](https://github.com/chaseofthejungle/java-brick-breaker-game/blob/main/sbbdemo.png "Super Brick Breaker Gameplay")
